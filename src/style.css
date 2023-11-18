@@ -1,0 +1,27 @@
+td  {
+    border: 1px solid black;
+    width: 200px;
+}
+
+
+ .id{
+    background-color: red;
+    width: 20px;
+ }
+ .form input{
+    height: 25px;
+    width: 230px;
+    border-radius: 6px;
+    margin-bottom: 20px;
+ }
+ .form button{
+    height: 34px;
+    border-radius: 6px;
+    width: 80px;
+    background-color: skyblue;
+ }
+ button{
+    width: 100px;
+    border-radius: 6px;
+    background-color: rgba(0, 128, 0, 0.532);
+ }
